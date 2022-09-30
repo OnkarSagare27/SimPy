@@ -1,2 +1,9 @@
-# SimPy
-A streamlined way to use JSON and datetime stuff (Still developing)
+# simPy
+
+A streamlined way to use JSON and datetime stuff (Still developing).
+
+## 🛠 imports
+
+```python
+import simPy
+```
