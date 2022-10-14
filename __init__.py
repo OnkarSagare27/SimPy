@@ -26,3 +26,4 @@ SOFTWARE.
 
 from .jsonOperations import __JOall__
 from .dateTime import __DTall__
+from .decorator import MessageDecorator
